@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**I wish she would make up her mind.**  
-<img src="https://preview.redd.it/fnq6dnj3hxyg1.png?width=640&crop=smart&auto=webp&s=ed7643c086cb5835e9d98e2f265035aae9429b4b" alt="Random Meme" width="500"/>
+**was i wrong though?**  
+<img src="https://preview.redd.it/51702alqtvyg1.png?width=320&crop=smart&auto=webp&s=617aecff24e10c370347dd0a7ffaf1b357ff1555" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
