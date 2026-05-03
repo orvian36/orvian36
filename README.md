@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**its called Self-torture not competition**  
-<img src="https://preview.redd.it/r3lb2x95ouyg1.png?width=640&crop=smart&auto=webp&s=dbe382437ffe5e21e820d1a3a010100f6515de4c" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/8wpreg2d6nyg1.png?width=640&crop=smart&auto=webp&s=34d346d7970d426160a13a5f9aaa97b209d48abc" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
