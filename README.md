@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Hard times**  
-<img src="https://preview.redd.it/82p7mhgw7cyg1.png?width=1080&crop=smart&auto=webp&s=c3a66868fc39b2cdb24df6aed313330ccb6de13e" alt="Random Meme" width="500"/>
+**I wish she would make up her mind.**  
+<img src="https://preview.redd.it/fnq6dnj3hxyg1.png?width=640&crop=smart&auto=webp&s=ed7643c086cb5835e9d98e2f265035aae9429b4b" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
