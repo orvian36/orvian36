@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Hugeassman meme (spent some time editing, first time)**  
-<img src="https://preview.redd.it/1ylda94eqyyg1.png?width=1080&crop=smart&auto=webp&s=75341b062b252e5f76d3a78432c4f29a51d575cc" alt="Random Meme" width="500"/>
+**Me_irl**  
+<img src="https://preview.redd.it/c7xettoweayg1.png?width=640&crop=smart&auto=webp&s=eeafb277f231fa7dd831b0ddb37003227695137e" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
