@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Meme for a very small group of people**  
-<img src="https://preview.redd.it/jd759ifm5dyg1.gif?width=1080&crop=smart&format=png8&s=bf3405b474f980c892aecd00ba7fbd1672c61304" alt="Random Meme" width="500"/>
+**Hard times**  
+<img src="https://preview.redd.it/82p7mhgw7cyg1.png?width=1080&crop=smart&auto=webp&s=c3a66868fc39b2cdb24df6aed313330ccb6de13e" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
