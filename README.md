@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Do you smell popcorn?**  
-<img src="https://preview.redd.it/whp8uxmcxxyg1.png?width=1080&crop=smart&auto=webp&s=9b2acd677306cc9b3286016b656182a0be2c0bdc" alt="Random Meme" width="500"/>
+**Hugeassman meme (spent some time editing, first time)**  
+<img src="https://preview.redd.it/1ylda94eqyyg1.png?width=1080&crop=smart&auto=webp&s=75341b062b252e5f76d3a78432c4f29a51d575cc" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
