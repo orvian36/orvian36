@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Decepticon operated can opener**  
-<img src="https://preview.redd.it/nxhaj7pb60zg1.png?width=960&crop=smart&auto=webp&s=1fafa17d4832328d92dd37043db56e0c8609ae4f" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/60x1flajq5zg1.png?width=1080&crop=smart&auto=webp&s=9a7f566417d43c6e7465510628b7622312a2b024" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
