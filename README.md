@@ -1,4 +1,4 @@
-![logo](https://github.com/webgeekhabib007/webgeekhabib007/blob/main/GithubBanner.png)
+![logo](https://github.com/orvian36/orvian36/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
@@ -7,9 +7,9 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on [**StreamFlare - Movie Recommendation System**](https://github.com/webgeekhabib007/StreamFlare)
+- 🔭 I’m currently working on [**StreamFlare - Movie Recommendation System**](https://github.com/orvian36/StreamFlare)
 - 🌱 Exploring **NLP**, **Scikit-learn**, **TensorFlow**, and **PyTorch**
-- 👨‍💻 All my projects are here: [GitHub Repositories](https://github.com/webgeekhabib007?tab=repositories)
+- 👨‍💻 All my projects are here: [GitHub Repositories](https://github.com/orvian36?tab=repositories)
 - 📝 I write regularly on [Money-Hustler.com(Down for noww)](https://money-hustler.com)
 - 💬 Ask me about **React, Node.js, JavaScript**
 - 📫 Reach me at **hr665102@gmail.com**
@@ -20,8 +20,8 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/habibur-rahman098" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://dev.to/webgeekhabib007" target="blank"><img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&logoColor=white" /></a>
-  <a href="https://medium.com/@webgeekhabib007" target="blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="https://dev.to/orvian36" target="blank"><img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&logoColor=white" /></a>
+  <a href="https://medium.com/@orvian36" target="blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/habib036" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/black_coder007" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/hr665102/" target="blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" /></a>
@@ -90,9 +90,9 @@
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webgeekhabib007&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webgeekhabib007&layout=compact&hide_border=true" alt="Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webgeekhabib007&" alt="webgeekhabib007" />
+  <img src="https://github-readme-stats.vercel.app/api?username=orvian36&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvian36&layout=compact&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orvian36&" alt="orvian36" />
 </p>
 
 ---
