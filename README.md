@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**"I told you that in confidence!"**  
-<img src="https://preview.redd.it/tcrimkbqmvyg1.png?width=640&crop=smart&auto=webp&s=737e34f548ca7f37309c0eb6f288d28e7f2878d1" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/mbg4lh0e3xyg1.png?width=640&crop=smart&auto=webp&s=f1e0a04f2b4782878f3248241ac55ec69efc6e4f" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
