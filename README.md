@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**OMG SUCH A CUTE KITTY!**  
-<img src="https://preview.redd.it/8r4omhc3cxyg1.png?width=640&crop=smart&auto=webp&s=cd24b56d8eec34a6a2a85a446f4ab83b92bc3766" alt="Random Meme" width="500"/>
+**"I told you that in confidence!"**  
+<img src="https://preview.redd.it/tcrimkbqmvyg1.png?width=640&crop=smart&auto=webp&s=737e34f548ca7f37309c0eb6f288d28e7f2878d1" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
