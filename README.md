@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Honestly, that's all I remember from this godforsaken movie.**  
-<img src="https://preview.redd.it/fljelvl1k0zg1.png?width=1080&crop=smart&auto=webp&s=b0483b247b728fddd55afdffc711a87f714a6ff3" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/hqx951sl86zg1.png?width=640&crop=smart&auto=webp&s=92799263b35dfa94096131252290bec3ccee49bc" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
