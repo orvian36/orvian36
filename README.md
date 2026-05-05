@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**bros before hoes**  
-<img src="https://preview.redd.it/52ybsnrotczg1.png?width=960&crop=smart&auto=webp&s=a755bfd8620befe64c4c9fceaadae7c894c2d077" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/hna66mvilazg1.png?width=1080&crop=smart&auto=webp&s=95c289988bea09a44055b80580e30a478e4a1805" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
