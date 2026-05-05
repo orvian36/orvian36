@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Work smarter, not harder.**  
-<img src="https://preview.redd.it/685ks5jbkgyg1.png?width=640&crop=smart&auto=webp&s=b738d61a522ad0e6fc8f393ce7706c7cf2887068" alt="Random Meme" width="500"/>
+**bros before hoes**  
+<img src="https://preview.redd.it/52ybsnrotczg1.png?width=960&crop=smart&auto=webp&s=a755bfd8620befe64c4c9fceaadae7c894c2d077" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
