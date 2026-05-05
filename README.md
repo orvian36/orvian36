@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**I am watching warhammer 40k**  
-<img src="https://preview.redd.it/y95i35vfg5zg1.png?width=640&crop=smart&auto=webp&s=15e55f0a026dadc29085558b2d3aa7cb7f80eb44" alt="Random Meme" width="500"/>
+**COORDINATE OR INCINERATE!!!!!**  
+<img src="https://preview.redd.it/059nv1xb1czg1.gif?width=640&crop=smart&format=png8&s=525f8c023706cf510d9e476878f8d00f8caeb5f0" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
