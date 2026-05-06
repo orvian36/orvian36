@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me_irl**  
-<img src="https://preview.redd.it/mjwja44jdkzg1.png?width=960&crop=smart&auto=webp&s=96d609765cd375be0c5f46ca06d7dcbebaa2025e" alt="Random Meme" width="500"/>
+**My gut reaction is not good**  
+<img src="https://preview.redd.it/bbvysw53r6zg1.png?width=640&crop=smart&auto=webp&s=8877585017a338072b87ce8f3ac266b8e6decf4d" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
