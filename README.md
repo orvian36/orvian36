@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me_irl**  
-<img src="https://preview.redd.it/l7rb4jh2gdzg1.png?width=1080&crop=smart&auto=webp&s=5a77e543b7fc9a5ba2fbecde6538c3d0fcea3e42" alt="Random Meme" width="500"/>
+**You're not making any sense, Otakon. You're going to do what with my mother?**  
+<img src="https://preview.redd.it/2tgh3bbbhdzg1.png?width=960&crop=smart&auto=webp&s=2866ed481ff6e9e84011bcd55b6454ce9664a903" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
