@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Mother. I'm scared**  
-<img src="https://preview.redd.it/3fnx0vjlodzg1.png?width=1080&crop=smart&auto=webp&s=85520624bbfce587fddcf4f8993e432dca10fa85" alt="Random Meme" width="500"/>
+**This turns me on 💡**  
+<img src="https://preview.redd.it/rxjjdffo2czg1.png?width=640&crop=smart&auto=webp&s=e62944d841b5bfd6d5f6a0151adb961240bcb83c" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
