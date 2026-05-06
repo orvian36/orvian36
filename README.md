@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**COORDINATE OR INCINERATE!!!!!**  
-<img src="https://preview.redd.it/059nv1xb1czg1.gif?width=640&crop=smart&format=png8&s=525f8c023706cf510d9e476878f8d00f8caeb5f0" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/l7rb4jh2gdzg1.png?width=1080&crop=smart&auto=webp&s=5a77e543b7fc9a5ba2fbecde6538c3d0fcea3e42" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
