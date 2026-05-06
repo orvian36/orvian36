@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**That's just downright mad**  
-<img src="https://preview.redd.it/2ah6gu1g59zg1.png?width=640&crop=smart&auto=webp&s=5837fa20c2b8522ef4008673008f742b1ccec83c" alt="Random Meme" width="500"/>
+**Mother. I'm scared**  
+<img src="https://preview.redd.it/3fnx0vjlodzg1.png?width=1080&crop=smart&auto=webp&s=85520624bbfce587fddcf4f8993e432dca10fa85" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
