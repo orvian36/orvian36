@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**They don't even say why**  
-<img src="https://preview.redd.it/3pxxeuzav4zg1.png?width=640&crop=smart&auto=webp&s=6568ed6a1a031ec8e9ee367f83c0f2f7944e4a8b" alt="Random Meme" width="500"/>
+**It's sad that so many games come to mind**  
+<img src="https://preview.redd.it/70g2tvtr4ozg1.gif?width=640&crop=smart&format=png8&s=fcfb09d898a6a62d8d98deb0caa6f81ee2f2e8d9" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
