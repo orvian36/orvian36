@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**It's A Shame They Can't Downvote &amp; Block Reality Itself**  
-<img src="https://preview.redd.it/w5zqcayhnlzg1.png?width=640&crop=smart&auto=webp&s=ca0a2c4a2629edf6b92f145330be6f66f05ae58e" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/tcanf2r4p3zg1.png?width=1080&crop=smart&auto=webp&s=5fe3d700235d94a5935cb6e52f88fc10e4dfd417" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
