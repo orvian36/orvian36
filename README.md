@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Every “just one more episode” decision has consequences**  
-<img src="https://preview.redd.it/qiago4i97ozg1.png?width=1080&crop=smart&auto=webp&s=a19ada3f3559a771ae57a747e7607677dc345cf2" alt="Random Meme" width="500"/>
+**Current life update 🥲🥲**  
+<img src="https://preview.redd.it/y3jxmv0z3gzg1.png?width=1080&crop=smart&auto=webp&s=0d2a925a6bd1b0a75b9ea19cb24f16bd3f1f004f" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
