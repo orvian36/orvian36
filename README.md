@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me_irl**  
-<img src="https://preview.redd.it/tezt9kd3mjzg1.png?width=640&crop=smart&auto=webp&s=1b12ca35cfad07e8f37383694c4496512a74c539" alt="Random Meme" width="500"/>
+**They think I'm disciplined**  
+<img src="https://preview.redd.it/cmynmq7olpzg1.png?width=320&crop=smart&auto=webp&s=a85cda0f580c904f8267920cc9cddd910227512b" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
