@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**They think I'm disciplined**  
-<img src="https://preview.redd.it/cmynmq7olpzg1.png?width=320&crop=smart&auto=webp&s=a85cda0f580c904f8267920cc9cddd910227512b" alt="Random Meme" width="500"/>
+**He wins either way**  
+<img src="https://preview.redd.it/xnwp4mmxyszg1.png?width=320&crop=smart&auto=webp&s=337f291878a32e1ff9394e1c62e9e8cd89af5c60" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
