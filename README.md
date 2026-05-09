@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Every. single. time.**  
-<img src="https://preview.redd.it/p7ckgee43yzg1.png?width=320&crop=smart&auto=webp&s=d395d85b0666128640c29d6f1c12bf8028263080" alt="Random Meme" width="500"/>
+**He is so happy**  
+<img src="https://preview.redd.it/5ztdys2yixzg1.gif?width=320&crop=smart&format=png8&s=4ff7962a83d4ed36e8c66168774bd3652d22f661" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
