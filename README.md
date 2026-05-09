@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**you need the government.**  
-<img src="https://preview.redd.it/hkw5fntcsvzg1.png?width=320&crop=smart&auto=webp&s=0522c4e91682f4e4cff5b2370a21e8eb6967e6c2" alt="Random Meme" width="500"/>
+**Me_irl**  
+<img src="https://preview.redd.it/ks7pqstup40h1.png?width=960&crop=smart&auto=webp&s=7daba5e1a827bc77955c14af311a3a6c06a2caa9" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
