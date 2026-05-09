@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Trimming your nose hair helps.**  
-<img src="https://preview.redd.it/bwoypqypz20h1.png?width=640&crop=smart&auto=webp&s=54c560a9cf8f14e5f08a9cd63338ddf46fba064c" alt="Random Meme" width="500"/>
+**you need the government.**  
+<img src="https://preview.redd.it/hkw5fntcsvzg1.png?width=320&crop=smart&auto=webp&s=0522c4e91682f4e4cff5b2370a21e8eb6967e6c2" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
