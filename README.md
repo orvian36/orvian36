@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**i have boiled down all human interaction into one image**  
-<img src="https://preview.redd.it/e7jp8t3kjyzg1.png?width=640&crop=smart&auto=webp&s=3626099e6072d545cf47b64aa8041d733abadd39" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/o87b1go4unzg1.png?width=320&crop=smart&auto=webp&s=636b0ff4c1f1423885a85749e574342224574be6" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
