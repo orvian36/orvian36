@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Fuck AI bullshit**  
-<img src="https://preview.redd.it/z3z264tbe20h1.png?width=1080&crop=smart&auto=webp&s=50bc623ac53fee3d6bdac9df0ae1ecc1c24008ad" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/t8jidam4kmzg1.png?width=320&crop=smart&auto=webp&s=5914f9137406aeb8e5b31843b67f1be3f9badbcb" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
