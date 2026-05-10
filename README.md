@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**"But boss, I could just heat up the coff- gahk!"**  
-<img src="https://preview.redd.it/cn0xhefu5nzg1.png?width=640&crop=smart&auto=webp&s=16f86b5c7d60220ad5bd3fb7d55cde626570a885" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/q0byju3k480h1.png?width=1080&crop=smart&auto=webp&s=506b8fcb025b9e62857e0c1e90d16f50566743da" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
