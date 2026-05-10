@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Me_irl**  
-<img src="https://preview.redd.it/ks7pqstup40h1.png?width=960&crop=smart&auto=webp&s=7daba5e1a827bc77955c14af311a3a6c06a2caa9" alt="Random Meme" width="500"/>
+**-Cook the most delicious food --&gt; abandon cooking for months --&gt; refuse to explain**  
+<img src="https://preview.redd.it/hqsr92lun50h1.png?width=320&crop=smart&auto=webp&s=4b62e3824a1e775b6ce9ffd279566e92d40e8303" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
