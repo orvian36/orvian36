@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**4.5 game**  
-<img src="https://preview.redd.it/bq97old5f30h1.png?width=640&crop=smart&auto=webp&s=0e451007599fbbbf42fe7135a3aa5953f01d3b6d" alt="Random Meme" width="500"/>
+**That's just downright mad**  
+<img src="https://preview.redd.it/2ah6gu1g59zg1.png?width=640&crop=smart&auto=webp&s=5837fa20c2b8522ef4008673008f742b1ccec83c" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
