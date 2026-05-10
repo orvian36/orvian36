@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me_irl**  
-<img src="https://preview.redd.it/xm74qsatmszg1.png?width=640&crop=smart&auto=webp&s=cec1984a162c0eef7ff3aec623d016daaeb52f03" alt="Random Meme" width="500"/>
+**Who tf still watches this show anyway?? 🥀**  
+<img src="https://preview.redd.it/21tt8izap50h1.gif?width=640&crop=smart&format=png8&s=86ca32e1bcc8c35c77cb90335a17fe3d8b35ada2" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
