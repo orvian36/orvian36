@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me irl**  
-<img src="https://preview.redd.it/7wgzu7po3ozg1.png?width=1080&crop=smart&auto=webp&s=fa8fdcd1c616624049e90daa7b30428ca615730c" alt="Random Meme" width="500"/>
+**I didn't agree to install a DLC**  
+<img src="https://preview.redd.it/lagk16p46izg1.png?width=640&crop=smart&auto=webp&s=fae25d3ff932a3a5b8851d4917c062ec6845e458" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
