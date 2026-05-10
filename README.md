@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**I didn't agree to install a DLC**  
-<img src="https://preview.redd.it/lagk16p46izg1.png?width=640&crop=smart&auto=webp&s=fae25d3ff932a3a5b8851d4917c062ec6845e458" alt="Random Meme" width="500"/>
+**"But boss, I could just heat up the coff- gahk!"**  
+<img src="https://preview.redd.it/cn0xhefu5nzg1.png?width=640&crop=smart&auto=webp&s=16f86b5c7d60220ad5bd3fb7d55cde626570a885" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
