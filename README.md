@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**That is very frustrating**  
-<img src="https://preview.redd.it/fmsv6ant5kzg1.png?width=640&crop=smart&auto=webp&s=3479e74d5300574512962ebf6ef965c45750520f" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/groqbmrawb0h1.png?width=1080&crop=smart&auto=webp&s=4f65887e99a4cf683ffa7695a75b09825bfcd3b6" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
