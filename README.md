@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**B tmffqz ujumf**  
-<img src="https://preview.redd.it/fycxs3icf90h1.png?width=640&crop=smart&auto=webp&s=f546f1d12881091900a52281e85320bff63ab002" alt="Random Meme" width="500"/>
+**A different league**  
+<img src="https://preview.redd.it/b26uzwqy110h1.png?width=1080&crop=smart&auto=webp&s=6f99955d5f4d2a1084afd1d9d6c2b7acbf135cb3" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
