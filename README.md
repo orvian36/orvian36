@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**18 when?**  
-<img src="https://preview.redd.it/coxkov8xjd0h1.png?width=1080&crop=smart&auto=webp&s=247505f2c70aaa43154089922b5e5ea163e280e4" alt="Random Meme" width="500"/>
+**I mean, who isn't?**  
+<img src="https://preview.redd.it/scsb5pd72k0h1.png?width=1080&crop=smart&auto=webp&s=fe05e0d2bec946337977aef376131e880af90943" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
