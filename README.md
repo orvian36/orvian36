@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**star wars taxation**  
-<img src="https://preview.redd.it/d3xu1iki150h1.png?width=320&crop=smart&auto=webp&s=4fb8dd1ead9dfb60aa3a61851d200558fe187931" alt="Random Meme" width="500"/>
+**me irl**  
+<img src="https://preview.redd.it/0606ddmj3d0h1.png?width=320&crop=smart&auto=webp&s=6daeb0d2da0208a74f1cebb3edf3c42e8aab1a28" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
