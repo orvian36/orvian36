@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**All shits and giggles**  
-<img src="https://preview.redd.it/4z89khcr8i0h1.png?width=640&crop=smart&auto=webp&s=e43b66440dc62eb3c65ccd7a37316cd3021ae1c8" alt="Random Meme" width="500"/>
+**iCandy**  
+<img src="https://preview.redd.it/olo1y5kv6c0h1.png?width=640&crop=smart&auto=webp&s=595fb4cb67f4f0ea6fdfcd4437d15b93a4ba7760" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
