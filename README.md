@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Demon prince chokes me out until I piss myself trilogy is best selling book among women aged 18-35**  
-<img src="https://preview.redd.it/db6c3dxfhb0h1.png?width=320&crop=smart&auto=webp&s=37200eb6b8bf9f904e8593a3d4f656412056cf98" alt="Random Meme" width="500"/>
+**Some people will never accept that video games aren't so bad after all**  
+<img src="https://preview.redd.it/5stnd8lkck0h1.gif?width=640&crop=smart&format=png8&s=c0f25202521feee2a6aa618ff06391e6074ab54f" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
