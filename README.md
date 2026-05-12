@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Half the year's gone and still no sign of the Great Meme Reset of 2026.**  
-<img src="https://preview.redd.it/dwaslbanmn0h1.png?width=1080&crop=smart&auto=webp&s=0ee8e92b4e9ccc1634919df508043a90e8465cd8" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/sv1e1bbfaj0h1.png?width=320&crop=smart&auto=webp&s=2eb9059018411dacb42d5ac49e183f99a0f6417b" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
