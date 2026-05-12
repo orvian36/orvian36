@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**iCandy**  
-<img src="https://preview.redd.it/olo1y5kv6c0h1.png?width=640&crop=smart&auto=webp&s=595fb4cb67f4f0ea6fdfcd4437d15b93a4ba7760" alt="Random Meme" width="500"/>
+**David, I just want to help you. You can explain your "dank meme" to me if you want to, David. We can work through this, together.**  
+<img src="https://preview.redd.it/s61qwgr15c0h1.png?width=640&crop=smart&auto=webp&s=162b5525bdd02fa20d586dffe27578824225d566" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
