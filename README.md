@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me_irl**  
-<img src="https://preview.redd.it/sv1e1bbfaj0h1.png?width=320&crop=smart&auto=webp&s=2eb9059018411dacb42d5ac49e183f99a0f6417b" alt="Random Meme" width="500"/>
+**Demon prince chokes me out until I piss myself trilogy is best selling book among women aged 18-35**  
+<img src="https://preview.redd.it/db6c3dxfhb0h1.png?width=320&crop=smart&auto=webp&s=37200eb6b8bf9f904e8593a3d4f656412056cf98" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
