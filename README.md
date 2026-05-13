@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Me_irl**  
-<img src="https://preview.redd.it/exr07wodon0h1.png?width=640&crop=smart&auto=webp&s=697c1af85ed75a96fb42294538c2840fe7509a12" alt="Random Meme" width="500"/>
+**Didn't help that my annual physical didn't even check for it 🙃🙃🙃**  
+<img src="https://preview.redd.it/s8bs2ahfuj0h1.png?width=1080&crop=smart&auto=webp&s=9b679dbf7b2c874d4db6ae56cd7921d105a809e5" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
