@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**it just doesn't roll off the tongue**  
-<img src="https://preview.redd.it/2ehf0wxxvs0h1.png?width=320&crop=smart&auto=webp&s=84609dd60d6f7d537e1710a6a3a7115c39568744" alt="Random Meme" width="500"/>
+**me irl**  
+<img src="https://preview.redd.it/u7zixji66q0h1.gif?width=108&crop=smart&format=png8&s=3ef3aefc546b91be020eed1271654a3c7f7f9446" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
