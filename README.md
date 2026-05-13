@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**The greatest test**  
-<img src="https://preview.redd.it/0554k11usi0h1.png?width=320&crop=smart&auto=webp&s=b428ed9ac835b0a344eae966a86111e9a674c110" alt="Random Meme" width="500"/>
+**New meds who dis?**  
+<img src="https://preview.redd.it/ait1igx0v80h1.gif?width=640&crop=smart&format=png8&s=51b69cfc03abbb25bcd6064a365cb5165b6757e4" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
