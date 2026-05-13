@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**New meds who dis?**  
-<img src="https://preview.redd.it/ait1igx0v80h1.gif?width=640&crop=smart&format=png8&s=51b69cfc03abbb25bcd6064a365cb5165b6757e4" alt="Random Meme" width="500"/>
+**Me_irl**  
+<img src="https://preview.redd.it/exr07wodon0h1.png?width=640&crop=smart&auto=webp&s=697c1af85ed75a96fb42294538c2840fe7509a12" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
