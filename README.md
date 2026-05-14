@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**The greatest test**  
-<img src="https://preview.redd.it/0554k11usi0h1.png?width=320&crop=smart&auto=webp&s=b428ed9ac835b0a344eae966a86111e9a674c110" alt="Random Meme" width="500"/>
+**I love the M1917**  
+<img src="https://preview.redd.it/2wx8zcn4vz0h1.png?width=320&crop=smart&auto=webp&s=4e48a8dd4d34ce4776d5f79ff1c312b753bdb397" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
