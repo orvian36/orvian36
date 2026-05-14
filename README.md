@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Anime fans right now**  
-<img src="https://preview.redd.it/srr6dqp64w0h1.gif?width=320&crop=smart&format=png8&s=2512f86d2c619e0e4d2902b8c1503cefab3629e7" alt="Random Meme" width="500"/>
+**I know some of you mfs would be okay with that.**  
+<img src="https://preview.redd.it/viug5ponwn0h1.png?width=640&crop=smart&auto=webp&s=b0498b2fdbc8924c2d74dc43d260f4f9855f14db" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
