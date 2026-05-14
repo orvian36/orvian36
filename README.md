@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me: something is OFF! doctor: have you tried journaling**  
-<img src="https://preview.redd.it/8oamsk46141h1.png?width=1080&crop=smart&auto=webp&s=0eaab1d09ee2544b1b0d08ff0c1020344455cd12" alt="Random Meme" width="500"/>
+**The greatest test**  
+<img src="https://preview.redd.it/0554k11usi0h1.png?width=320&crop=smart&auto=webp&s=b428ed9ac835b0a344eae966a86111e9a674c110" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
