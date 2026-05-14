@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me irl**  
-<img src="https://preview.redd.it/u7zixji66q0h1.gif?width=108&crop=smart&format=png8&s=3ef3aefc546b91be020eed1271654a3c7f7f9446" alt="Random Meme" width="500"/>
+**Doing gods work. I'm basically an archbishop.**  
+<img src="https://preview.redd.it/x2hu14u43s0h1.png?width=1080&crop=smart&auto=webp&s=d3aa864e9290e637b126beec16f1a05ee3d4e168" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
