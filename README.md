@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**me irl**  
-<img src="https://preview.redd.it/k38kiabvl91h1.gif?width=320&crop=smart&format=png8&s=e5edc61bee5e428b06131199b7bfec299504df5d" alt="Random Meme" width="500"/>
+**Me on my first day after ‘slightly exaggerating’ my skills on my resume**  
+<img src="https://preview.redd.it/5xmsic62gd1h1.png?width=1080&crop=smart&auto=webp&s=9b14ac8eae6001010192b8e99390e900231be36d" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
