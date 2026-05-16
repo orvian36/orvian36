@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**My first school meme**  
-<img src="https://preview.redd.it/v79r00amti1h1.png?width=1080&crop=smart&auto=webp&s=8159250bea896164fc162e1d641321a0cc49599c" alt="Random Meme" width="500"/>
+**Ease the pain ASAP…**  
+<img src="https://preview.redd.it/ccvbdjxeh81h1.gif?width=640&crop=smart&format=png8&s=66fa170029787dfe680d2bf4c6d7edaddb2ebee8" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
