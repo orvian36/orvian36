@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**So dank I'm running out of ink.**  
-<img src="https://preview.redd.it/xxbgl37m261h1.png?width=640&crop=smart&auto=webp&s=e168358e949df66d2f0b8e418a232aca91506a3f" alt="Random Meme" width="500"/>
+**Lee lee lee**  
+<img src="https://preview.redd.it/z38g2mez3h1h1.png?width=1080&crop=smart&auto=webp&s=90400e906e04474559f11dd7395cc7387fdcf7d4" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
