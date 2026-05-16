@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Me on my first day after ‘slightly exaggerating’ my skills on my resume**  
-<img src="https://preview.redd.it/5xmsic62gd1h1.png?width=1080&crop=smart&auto=webp&s=9b14ac8eae6001010192b8e99390e900231be36d" alt="Random Meme" width="500"/>
+**Whatever in those unreleased Files must be CRAZY**  
+<img src="https://preview.redd.it/7zo2f5dgh91h1.png?width=320&crop=smart&auto=webp&s=7a50168af695f6c6810ed0938b94eb64b7f3626e" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
