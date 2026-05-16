@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Whatever in those unreleased Files must be CRAZY**  
-<img src="https://preview.redd.it/7zo2f5dgh91h1.png?width=320&crop=smart&auto=webp&s=7a50168af695f6c6810ed0938b94eb64b7f3626e" alt="Random Meme" width="500"/>
+**A sus title.**  
+<img src="https://preview.redd.it/jddngum3sf1h1.png?width=640&crop=smart&auto=webp&s=fe5049f4becd0ecbbaaa0b2c570e057e0a10cb99" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
