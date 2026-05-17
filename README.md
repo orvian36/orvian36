@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Guess I'll just start chewing on spare pennies.**  
-<img src="https://preview.redd.it/w5mlc6vn7b1h1.png?width=1080&crop=smart&auto=webp&s=e375be245a3dcf20621e6e927914f7b7d2a76227" alt="Random Meme" width="500"/>
+**me_irl**  
+<img src="https://preview.redd.it/uyjlgv9n4m1h1.png?width=960&crop=smart&auto=webp&s=27088ac35ef56ff416d56c51dd5f4ced9e3b6495" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
