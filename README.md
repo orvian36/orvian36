@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**I think I'm going to scream**  
-<img src="https://preview.redd.it/wg8jwnfrsp1h1.png?width=1080&crop=smart&auto=webp&s=6a7943722a2876dd013dc677c6eeefdedec2e4b5" alt="Random Meme" width="500"/>
+**fugheddaboutit**  
+<img src="https://preview.redd.it/53rny5e1bk1h1.png?width=640&crop=smart&auto=webp&s=f7aa49c44383f7a89b8be693958a5af436014f4e" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
