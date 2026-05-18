@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**A battle of wills**  
-<img src="https://preview.redd.it/ctje61sfnw1h1.png?width=960&crop=smart&auto=webp&s=b0549e217614d21c733cc5a9d4d6a616456f49d0" alt="Random Meme" width="500"/>
+**my weekend 😭**  
+<img src="https://preview.redd.it/86e8woxq8x1h1.png?width=320&crop=smart&auto=webp&s=e275de5d8b1990379d9aa88278a2263231fef4af" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
