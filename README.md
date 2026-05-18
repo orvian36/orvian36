@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**my weekend 😭**  
-<img src="https://preview.redd.it/86e8woxq8x1h1.png?width=320&crop=smart&auto=webp&s=e275de5d8b1990379d9aa88278a2263231fef4af" alt="Random Meme" width="500"/>
+**"WORTH IT"**  
+<img src="https://preview.redd.it/q2x3yiv9hq1h1.gif?width=320&crop=smart&format=png8&s=7de47cffdca78f363d3f9268886e9eb39dc43ebf" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
