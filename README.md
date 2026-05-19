@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Are we for real**  
-<img src="https://preview.redd.it/z0ph79zi1w1h1.png?width=320&crop=smart&auto=webp&s=48b38929fbb839655f3484eb4988009423b21231" alt="Random Meme" width="500"/>
+**Every gacha fandom. (Character and art by me)**  
+<img src="https://preview.redd.it/26l38sqj1z1h1.png?width=1080&crop=smart&auto=webp&s=f5b9f5c5a621cc1b8ac5feb3071ea680bb2d08e4" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
