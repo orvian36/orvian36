@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**Stop complaining and just play the hand you were dealt**  
-<img src="https://preview.redd.it/2b1iazrx5i1h1.png?width=1080&crop=smart&auto=webp&s=30e047e7052fc04d3de5afa0207e65267239f251" alt="Random Meme" width="500"/>
+**Are we for real**  
+<img src="https://preview.redd.it/z0ph79zi1w1h1.png?width=320&crop=smart&auto=webp&s=48b38929fbb839655f3484eb4988009423b21231" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
