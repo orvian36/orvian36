@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**It’s show time…**  
-<img src="https://preview.redd.it/glgx0u9u282h1.gif?width=640&crop=smart&format=png8&s=a154f7594c4481edb64a9333037d2a46bb990ba0" alt="Random Meme" width="500"/>
+**billions must defile school desks**  
+<img src="https://preview.redd.it/y8wph9a0iv1h1.gif?width=640&crop=smart&format=png8&s=b549b3877040cf13c22fa02a1f40d7fae73defa7" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
