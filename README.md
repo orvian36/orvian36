@@ -1,125 +1,169 @@
-![logo](https://github.com/orvian36/orvian36/blob/main/GithubBanner.png)
+![banner](https://github.com/orvian36/orvian36/blob/main/GithubBanner.png)
 
-<h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh</h3>
+<div align="center">
 
----
+# Habibur Rahman
 
-### ✨ About Me
+### Full-Stack Software Engineer · LLM & RAG Builder · Dhaka, Bangladesh
 
-- 🔭 I’m currently working on [**StreamFlare - Movie Recommendation System**](https://github.com/orvian36/StreamFlare)
-- 🌱 Exploring **NLP**, **Scikit-learn**, **TensorFlow**, and **PyTorch**
-- 👨‍💻 All my projects are here: [GitHub Repositories](https://github.com/orvian36?tab=repositories)
-- 📝 I write regularly on [habib36.dev](https://habib36.dev)
-- 💬 Ask me about **React, Node.js, JavaScript**
-- 📫 Reach me at **hr665102@gmail.com**
+<a href="https://habib36.dev"><img src="https://img.shields.io/badge/Portfolio-habib36.dev-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/habibur-rahman098"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:habibur.rahman36098@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="cv/habibur_rahman_cv.pdf"><img src="https://img.shields.io/badge/Resume-Download-1F8ACB?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
----
+<br/>
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/habibur-rahman098" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://dev.to/orvian36" target="blank"><img src="https://img.shields.io/badge/Dev.to-black?logo=dev.to&logoColor=white" /></a>
-  <a href="https://medium.com/@orvian36" target="blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/habib036" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/black_coder007" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/hr665102/" target="blank"><img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" /></a>
-</p>
-
----
-
-### 🔧 Technologies and Tools
-
-#### 👨‍💻 Programming Languages  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-
-#### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
-
-#### 🧠 AI & ML  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-
-#### 🧰 Backend & Tools  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
-
-#### 🛠️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-#### 🗃️ Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-
-#### 🧪 Testing  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-
-#### 🎨 Design & UI  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orvian36&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvian36&layout=compact&hide_border=true" alt="Top Languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orvian36&" alt="orvian36" />
-</p>
-
----
-
-### ✍️ Quote of the Day
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 😂 Random Meme
-
-<!-- MEME-START -->
-**billions must defile school desks**  
-<img src="https://preview.redd.it/y8wph9a0iv1h1.gif?width=640&crop=smart&format=png8&s=b549b3877040cf13c22fa02a1f40d7fae73defa7" alt="Random Meme" width="500"/>
-<!-- MEME-END -->
-
----
-
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/habib036">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+<a href="https://habib36.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=640&lines=Shipping+production+LLM+systems;Designing+RAG+%26+vector-search+pipelines;Building+scalable+Next.js+%2B+FastAPI+apps;3%2C000%2B+competitive-programming+problems+solved" alt="Typing intro" />
 </a>
 
+</div>
+
 ---
 
-### 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 👨‍💻 About Me
+
+Software engineer focused on **production LLM systems** — RAG pipelines, document intelligence, and natural-language interfaces to data — built on top of **Next.js**, **FastAPI**, and **Postgres**. B.Sc. CSE graduate from **KUET** with a strong competitive-programming background.
+
+- 🔭 Recent work → bilingual translation pipelines, NL-to-SQL chatbots, RAG over Weaviate
+- 🧱 Comfortable across the stack → from Postgres schemas to Next.js front-ends
+- 🧭 Care about → clean architecture, design patterns, and code that survives growth
+- 📫 Reach me at **habibur.rahman36098@gmail.com**
+
+---
+
+## 💼 Experience
+
+#### Software Engineer · [Makebell.com](https://makebell.com) — *Remote, Hong Kong SAR*
+`Apr 2025 – Mar 2026`
+
+- Built an **English ↔ Chinese legal/financial translation pipeline** processing 500+ page Word documents with **~98 % alignment** against reference models.
+- Designed and deployed a **RAG pipeline** for PDF ingestion and knowledge-base construction over a **Weaviate** vector database.
+- Shipped **LLM-powered Next.js apps** for legal document and file-management workflows.
+- Implemented a **natural-language → SQL** interface for conversational data querying.
+- Built **centralized Supabase authentication** providing unified access across multiple internal apps.
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [habib36.dev](https://habib36.dev)
+Personal portfolio & blog with dynamic project showcases, rich-text editing, animations, and an integrated admin panel.
+
+`Next.js` · `Payload CMS` · `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤝 [Collaborative Team Hub](https://github.com/orvian36?tab=repositories)
+Full-stack team-collaboration platform with real-time Kanban tracking, optimistic UI, and advanced RBAC.
+
+`Next.js` · `Node.js` · `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 [StreamFlare](https://github.com/orvian36/StreamFlare)
+Movie & TV streaming app with personalized recommendations, subscription management, and search.
+
+`React` · `Node.js` · `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏓 [AI Ping Pong](https://github.com/orvian36?tab=repositories)
+Adaptive AI ping-pong opponent driven by **fuzzy logic**, implemented in Python with Pygame.
+
+`Python` · `Pygame` · `Fuzzy Logic`
+
+</td>
+</tr>
+</table>
+
+> 🎓 **Undergraduate thesis** — *State Recognition of Traffic Signals for Autonomous Vehicles*: YOLOv8n detector (**mAP@50 = 0.936**) deployed as an optimized **NCNN** model on a Raspberry Pi 4 for real-time inference.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D26A?style=flat&logo=weaviate&logoColor=white)
+
+**AI, LLMs & Data Systems**
+
+`RAG Pipelines` · `Vector Search` · `Embedding Models` · `OCR / Document Processing` · `ViT (e.g. MinerU)`
+
+**Architecture & Practices**
+
+`Clean Architecture` · `SOLID` · `Design Patterns — Factory · Strategy · Repository · Observer`
+
+**DevOps & Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Competitive Programming
+
+> Solved **3,000+ problems** across platforms · **Ranked 6th** at SGIPC Intra-University CP Contest
+
+<p>
+  <a href="https://leetcode.com/u/Segfaulted/"><img src="https://img.shields.io/badge/LeetCode-Knight%20·%201882-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/Segfaulted"><img src="https://img.shields.io/badge/Codeforces-Specialist%20·%201558-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/habib098"><img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20·%201741-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orvian36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvian36&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=orvian36&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+**🎓 B.Sc. in Computer Science & Engineering** · *Khulna University of Engineering & Technology (KUET)* · `2020 – 2025`
+
+📫 [habibur.rahman36098@gmail.com](mailto:habibur.rahman36098@gmail.com) · 🌐 [habib36.dev](https://habib36.dev) · 💼 [LinkedIn](https://linkedin.com/in/habibur-rahman098)
+
+</div>
