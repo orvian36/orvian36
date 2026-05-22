@@ -1,5 +1,3 @@
-![banner](https://github.com/orvian36/orvian36/blob/main/GithubBanner.png)
-
 <div align="center">
 
 # Habibur Rahman
