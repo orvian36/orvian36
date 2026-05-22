@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**billions must defile school desks**  
-<img src="https://preview.redd.it/y8wph9a0iv1h1.gif?width=640&crop=smart&format=png8&s=b549b3877040cf13c22fa02a1f40d7fae73defa7" alt="Random Meme" width="500"/>
+**Turn on your heart light**  
+<img src="https://preview.redd.it/vd1oop24hh2h1.png?width=640&crop=smart&auto=webp&s=1e61b5d54f93a9c26d8e02afd13ebbe342589f41" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
