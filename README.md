@@ -106,8 +106,8 @@
 ### 😂 Random Meme
 
 <!-- MEME-START -->
-**I’m packing illegal heat bois**  
-<img src="https://preview.redd.it/lxnc1giwow1h1.gif?width=640&crop=smart&format=png8&s=8d8af12366c331035df973a5ab651339f818ab5f" alt="Random Meme" width="500"/>
+**billions must defile school desks**  
+<img src="https://preview.redd.it/y8wph9a0iv1h1.gif?width=640&crop=smart&format=png8&s=b549b3877040cf13c22fa02a1f40d7fae73defa7" alt="Random Meme" width="500"/>
 <!-- MEME-END -->
 
 ---
