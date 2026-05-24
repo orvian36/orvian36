@@ -133,7 +133,7 @@ Movie & TV streaming app with personalized recommendations, subscription managem
 `RAG Pipelines` · `Vector Search` · `Embedding Models` · `OCR & Document Processing` · `ViT (MinerU)` · `NL → SQL`
 
 **Testing & Reliability**
-`pytest` · `Jest` · `Playwright` · `GitHub Actions CI/CD` · `Celery / BullMQ / Redis Streams`
+`pytest` · `Jest` · `Playwright` · `GitHub Actions CI/CD` · `Celery / Temporal / Redis`
 
 **Architecture**
 `Clean Architecture` · `SOLID` · `Design Patterns — Factory · Strategy · Repository · Observer`
