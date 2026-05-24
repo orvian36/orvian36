@@ -148,12 +148,22 @@ Adaptive AI ping-pong opponent driven by **fuzzy logic**, implemented in Python 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orvian36&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvian36&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=orvian36&theme=solarized-dark" alt="GitHub Streak" />
 </div>
 
+### 📈 Activity Overview
+
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=orvian36&theme=tokyonight&hide_border=true" />
+  <img height="195" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orvian36&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=orvian36&theme=tokyonight" />
+  <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orvian36&theme=tokyonight&utcOffset=6" />
+  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=orvian36&bg_color=0d1117&color=ffffff&line=32cd32&point=32cd32&area=true&hide_border=true&days=60" />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=orvian36&base=1998&color=brightgreen&label=PROFILE+VIEWS&style=flat-square" />
 </div>
 
 ---
