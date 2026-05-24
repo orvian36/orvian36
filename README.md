@@ -39,7 +39,7 @@ Software engineer focused on **production LLM systems** — RAG pipelines, docum
 - Implemented a **natural-language → SQL** interface for conversational data querying — <!-- TODO: schema size (tables/columns), query accuracy % -->.
 - Built **centralized Supabase authentication** providing unified SSO across <!-- TODO: # --> internal apps.
 - Wrote **GitHub Actions CI/CD pipelines** and **test suites (pytest / Jest)** covering critical ingestion and translation paths — <!-- TODO: coverage % or # of tests -->.
-- Used **async queues (Celery / BullMQ / Redis Streams)** to handle long-running document ingestion off the request path — <!-- TODO: throughput/queue depth -->.
+- Used **async queues (Celery / Temporal / Redis)** to handle long-running document ingestion off the request path — <!-- TODO: throughput/queue depth -->.
 
 ---
 
