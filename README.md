@@ -24,7 +24,7 @@ Software engineer focused on **production LLM systems** — RAG pipelines, docum
 - 🔭 Recent work → bilingual translation pipelines, NL-to-SQL chatbots, RAG over Weaviate
 - 🧱 Comfortable across the stack → from Postgres schemas to Next.js front-ends
 - 🧭 Care about → clean architecture, design patterns, and code that survives growth
-- 🌱 Currently learning → <!-- TODO: e.g. "distributed tracing w/ OpenTelemetry, multi-agent RAG orchestration, JAX" -->
+- 🌱 Currently learning → production **agent orchestration with LangGraph**, **eval-driven RAG** (Ragas + Langfuse), and shipping on **AWS Bedrock + Lambda + pgvector**
 
 ---
 
